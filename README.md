@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
-- 👨‍💻 All of my projects are available at [https://sbharga.github.io/](https://sbharga.github.io/)
+- 👨‍💻 All of my projects are available at https://sbharga.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
